@@ -158,3 +158,13 @@ Built for **CodTech Full Stack Internship — Task 3**
 ## License
 
 MIT
+
+#OUTPUT
+
+<img width="1588" height="912" alt="Image" src="https://github.com/user-attachments/assets/822f9271-d55b-4c91-bcbe-1bd1d7b7c30d" />
+
+<img width="1888" height="900" alt="Image" src="https://github.com/user-attachments/assets/e1ec1d0e-681a-47d9-b563-934a6ffbc31f" />
+
+<img width="1905" height="879" alt="Image" src="https://github.com/user-attachments/assets/10cd857c-b805-43d6-a32e-a564f780286d" />
+
+<img width="1898" height="881" alt="Image" src="https://github.com/user-attachments/assets/5c2fc76f-ee52-4d71-92d1-14e60b9d5ae3" />
