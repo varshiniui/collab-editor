@@ -4,21 +4,21 @@ A real-time collaborative document editor built with **React.js**, **Node.js**, 
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📝 **Rich text editing** — bold, italic, headings, lists, code blocks, alignment and more (powered by Quill.js)
-- ⚡ **Real-time collaboration** — multiple users edit the same document simultaneously via WebSocket
-- 👥 **Live user presence** — color-coded user pills show everyone currently editing
-- 💾 **Save & persist** — documents saved to PostgreSQL, auto-saves every 30 seconds
-- 🔔 **Save toast notification** — animated confirmation appears every time a save succeeds
-- 📋 **Per-user document library** — each user only sees documents they created
-- 🔗 **Share by ID** — copy the document ID and share it so others can join and co-edit
-- 📊 **Live word & character count** — always visible in the status bar
-- 🗑️ **Delete documents** — remove documents directly from the home screen
+-  **Rich text editing** — bold, italic, headings, lists, code blocks, alignment and more (powered by Quill.js)
+-  **Real-time collaboration** — multiple users edit the same document simultaneously via WebSocket
+-  **Live user presence** — color-coded user pills show everyone currently editing
+-  **Save & persist** — documents saved to PostgreSQL, auto-saves every 30 seconds
+-  **Save toast notification** — animated confirmation appears every time a save succeeds
+-  **Per-user document library** — each user only sees documents they created
+-  **Share by ID** — copy the document ID and share it so others can join and co-edit
+-  **Live word & character count** — always visible in the status bar
+-  **Delete documents** — remove documents directly from the home screen
 
 ---
 
-## 🖥️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -30,7 +30,7 @@ A real-time collaborative document editor built with **React.js**, **Node.js**, 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 task3/
@@ -54,7 +54,7 @@ task3/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js v16 or higher
@@ -84,8 +84,8 @@ npm start
 ```
 You should see:
 ```
-✅ Database ready
-🚀 Draft server running on http://localhost:3001
+Database ready
+Draft server running on http://localhost:3001
 ```
 
 ### 4. Start the React client
@@ -100,7 +100,7 @@ Opens automatically at `http://localhost:3000`
 
 ---
 
-## 🧪 How to Test
+## How to Test
 
 ### Single user
 1. Enter your name → create a document → start writing
@@ -113,7 +113,7 @@ Opens automatically at `http://localhost:3000`
 2. Open a second browser tab → `http://localhost:3000`
 3. Enter a different name → paste the ID in **Join by ID** → click Join
 4. Both users appear in the editing strip
-5. Type in one tab — text appears instantly in the other ⚡
+5. Type in one tab — text appears instantly in the other 
 
 ### Per-user documents
 - Documents only appear under the name that created them
@@ -138,7 +138,7 @@ Opens automatically at `http://localhost:3000`
 
 ---
 
-## 🌐 REST API Endpoints
+## REST API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -149,12 +149,12 @@ Opens automatically at `http://localhost:3000`
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Built for **CodTech Full Stack Internship — Task 3**
 
 ---
 
-## 📄 License
+## License
 
 MIT
