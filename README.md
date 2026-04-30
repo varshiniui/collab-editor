@@ -1,18 +1,5 @@
 # Draft - Real-Time Collaborative Document Editor
 
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*NAME* : SAHAYA VARSHINI M J
-
-*INTERN ID* : CTIS7104
-
-*DOMAIN* : FULL STAACK WEB DEVELOPMENT
-
-*DURATION* : 6 WEEKS
-
-*MENTOR* : NEELA SANTOSH
-
-
 A real-time collaborative document editor built with **React.js**, **Node.js**, **Socket.io**, and **PostgreSQL** CodTech Full Stack Internship Task 3.
 
 ---
