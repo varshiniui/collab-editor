@@ -1,6 +1,6 @@
 # Draft - Real-Time Collaborative Document Editor
 
-A real-time collaborative document editor built with **React.js**, **Node.js**, **Socket.io**, and **PostgreSQL** CodTech Full Stack Internship Task 3.
+A real-time collaborative document editor built with **React.js**, **Node.js**, **Socket.io**, and **PostgreSQL**
 
 ---
 
@@ -151,7 +151,7 @@ Opens automatically at `http://localhost:3000`
 
 ## Author
 
-Built for **CodTech Full Stack Internship — Task 3**
+Sahaya Varshini M J
 
 ---
 
